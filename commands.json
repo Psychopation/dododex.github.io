@@ -153,7 +153,7 @@
 "c":"EnableSpectator",
 "e":"admincheat EnableSpectator",
 "t":"Misc",
-"d":"Enables spectator mode for current player."
+"d":"Enables spectator mode for current player (Destroys Inventory)."
 },{
 "id":"ExecSetSleeping",
 "c":"ExecSetSleeping <true | false>",
@@ -814,10 +814,4 @@
 "e":"admincheat ShowMyAdminManager",
 "t":"Tribe & Player Administration",
 "d":"Opens the admin manager GUI."
-},{
-"id":"EnableSpectator",
-"c":"EnableSpectator",
-"e":"admincheat EnableSpectator",
-"t":"Misc",
-"d":"Enables spectator mode (destroys inventory)."
 }]}
